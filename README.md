@@ -13,8 +13,7 @@
 * 🔥 Đam mê mãnh liệt với lĩnh vực **Data**, đặc biệt là định hướng trở thành một **Data Engineer**. Tôi thích sự logic của việc xây dựng và tối ưu hóa các luồng dữ liệu (data pipelines).
 * 🔭 Đang phát triển **StudyHub** - một ứng dụng quản lý học tập tích hợp cơ sở dữ liệu Firestore, Kanban board và lộ trình.
 * 📚 Từng có kinh nghiệm nghiên cứu về mô hình nhận diện ảnh y tế (Deep Learning/XAI). Trải nghiệm này giúp tôi hiểu sâu sắc về cách thức hoạt động và nhu cầu dữ liệu của các mô hình AI, từ đó hỗ trợ tốt hơn cho công việc Kỹ sư Dữ liệu sau này.
-* 🌱 Mục tiêu hiện tại: Tập trung hoàn thiện các kỹ năng Big Data (PySpark, SQL, Azure) và tìm kiếm cơ hội **thực tập Data Engineering** vào tháng 07/2026.
-* ⚡ Fun fact: Khi không code, bạn có thể tìm thấy tôi đang tập gym rèn luyện sức khỏe, leo rank Liên Minh Huyền Thoại hoặc sinh tồn trong Minecraft!
+
 
 ---
 
@@ -30,11 +29,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Machine Learning & Data Science (Nền tảng):**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ---
 
 ### 🚀 Dự án nổi bật
@@ -44,9 +38,15 @@
 
 ---
 
-### 📫 Liên hệ với tôi
+### 📫 Kết nối với tôi
 
-* **LinkedIn:** [linkedin.com/in/trungkien118](https://www.linkedin.com/in/trungkien118)
+<p align="left">
+<a href="https://github.com/Kien118" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Kien118" /></a>
+<a href="https://www.linkedin.com/in/trungkien118" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="trungkien118" /></a>
+<a href="mailto:huynhkien118@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="huynhkien118@gmail.com" /></a>
+</p>
+
+**Email:** huynhkien118@gmail.com
 
 <br/>
 <p align="center">
